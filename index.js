@@ -64,6 +64,11 @@ const quizData = [
       options: ['Lion', 'Tiger', 'Elephant', 'Giraffe'],
       answer: 'Lion',
     },
+    {
+      question: 'Which is the capital city of Japan?',
+      options: ['Lai', 'Begign', 'Bangkok', 'Tokio'],
+      answer: 'Lion',
+    },
   ];
   
   const quizContainer = document.getElementById('quiz');
